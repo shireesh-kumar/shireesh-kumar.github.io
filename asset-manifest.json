@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/shireesh-kumar.github.io/static/css/main.047d59f5.chunk.css",
-    "main.js": "/shireesh-kumar.github.io/static/js/main.2892b6c7.chunk.js",
-    "main.js.map": "/shireesh-kumar.github.io/static/js/main.2892b6c7.chunk.js.map",
-    "runtime-main.js": "/shireesh-kumar.github.io/static/js/runtime-main.d436f678.js",
-    "runtime-main.js.map": "/shireesh-kumar.github.io/static/js/runtime-main.d436f678.js.map",
-    "static/js/2.fc996797.chunk.js": "/shireesh-kumar.github.io/static/js/2.fc996797.chunk.js",
-    "static/js/2.fc996797.chunk.js.map": "/shireesh-kumar.github.io/static/js/2.fc996797.chunk.js.map",
-    "static/js/3.5c777761.chunk.js": "/shireesh-kumar.github.io/static/js/3.5c777761.chunk.js",
-    "static/js/3.5c777761.chunk.js.map": "/shireesh-kumar.github.io/static/js/3.5c777761.chunk.js.map",
+    "main.css": "/shireesh-kumar.github.io/static/css/main.d7ae02b2.chunk.css",
+    "main.js": "/shireesh-kumar.github.io/static/js/main.fb25361a.chunk.js",
+    "main.js.map": "/shireesh-kumar.github.io/static/js/main.fb25361a.chunk.js.map",
+    "runtime-main.js": "/shireesh-kumar.github.io/static/js/runtime-main.0b94fdfa.js",
+    "runtime-main.js.map": "/shireesh-kumar.github.io/static/js/runtime-main.0b94fdfa.js.map",
+    "static/js/2.4573e77b.chunk.js": "/shireesh-kumar.github.io/static/js/2.4573e77b.chunk.js",
+    "static/js/2.4573e77b.chunk.js.map": "/shireesh-kumar.github.io/static/js/2.4573e77b.chunk.js.map",
+    "static/js/3.03caf6ba.chunk.js": "/shireesh-kumar.github.io/static/js/3.03caf6ba.chunk.js",
+    "static/js/3.03caf6ba.chunk.js.map": "/shireesh-kumar.github.io/static/js/3.03caf6ba.chunk.js.map",
     "index.html": "/shireesh-kumar.github.io/index.html",
-    "static/css/main.047d59f5.chunk.css.map": "/shireesh-kumar.github.io/static/css/main.047d59f5.chunk.css.map",
-    "static/js/2.fc996797.chunk.js.LICENSE.txt": "/shireesh-kumar.github.io/static/js/2.fc996797.chunk.js.LICENSE.txt"
+    "static/css/main.d7ae02b2.chunk.css.map": "/shireesh-kumar.github.io/static/css/main.d7ae02b2.chunk.css.map",
+    "static/js/2.4573e77b.chunk.js.LICENSE.txt": "/shireesh-kumar.github.io/static/js/2.4573e77b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d436f678.js",
-    "static/js/2.fc996797.chunk.js",
-    "static/css/main.047d59f5.chunk.css",
-    "static/js/main.2892b6c7.chunk.js"
+    "static/js/runtime-main.0b94fdfa.js",
+    "static/js/2.4573e77b.chunk.js",
+    "static/css/main.d7ae02b2.chunk.css",
+    "static/js/main.fb25361a.chunk.js"
   ]
 }
