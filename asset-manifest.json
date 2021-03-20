@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/shireesh-kumar.github.io/static/css/main.263e113b.chunk.css",
+    "main.css": "/shireesh-kumar.github.io/static/css/main.f1549c9c.chunk.css",
     "main.js": "/shireesh-kumar.github.io/static/js/main.595828bc.chunk.js",
     "main.js.map": "/shireesh-kumar.github.io/static/js/main.595828bc.chunk.js.map",
     "runtime-main.js": "/shireesh-kumar.github.io/static/js/runtime-main.e606ad28.js",
@@ -10,14 +10,14 @@
     "static/js/3.eb58a600.chunk.js": "/shireesh-kumar.github.io/static/js/3.eb58a600.chunk.js",
     "static/js/3.eb58a600.chunk.js.map": "/shireesh-kumar.github.io/static/js/3.eb58a600.chunk.js.map",
     "index.html": "/shireesh-kumar.github.io/index.html",
-    "static/css/main.263e113b.chunk.css.map": "/shireesh-kumar.github.io/static/css/main.263e113b.chunk.css.map",
+    "static/css/main.f1549c9c.chunk.css.map": "/shireesh-kumar.github.io/static/css/main.f1549c9c.chunk.css.map",
     "static/js/2.ff8361e4.chunk.js.LICENSE.txt": "/shireesh-kumar.github.io/static/js/2.ff8361e4.chunk.js.LICENSE.txt",
-    "static/media/Home.css": "/shireesh-kumar.github.io/static/media/ocean.1309b198.jpg"
+    "static/media/Home.css": "/shireesh-kumar.github.io/static/media/rock.0f60aa6c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e606ad28.js",
     "static/js/2.ff8361e4.chunk.js",
-    "static/css/main.263e113b.chunk.css",
+    "static/css/main.f1549c9c.chunk.css",
     "static/js/main.595828bc.chunk.js"
   ]
 }
