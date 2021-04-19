@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shireesh-kumar.github.io/static/css/main.66b67b49.chunk.css",
-    "main.js": "/shireesh-kumar.github.io/static/js/main.57b53c94.chunk.js",
-    "main.js.map": "/shireesh-kumar.github.io/static/js/main.57b53c94.chunk.js.map",
+    "main.js": "/shireesh-kumar.github.io/static/js/main.cd7a8020.chunk.js",
+    "main.js.map": "/shireesh-kumar.github.io/static/js/main.cd7a8020.chunk.js.map",
     "runtime-main.js": "/shireesh-kumar.github.io/static/js/runtime-main.07397018.js",
     "runtime-main.js.map": "/shireesh-kumar.github.io/static/js/runtime-main.07397018.js.map",
     "static/css/2.c5b90173.chunk.css": "/shireesh-kumar.github.io/static/css/2.c5b90173.chunk.css",
@@ -14,6 +14,7 @@
     "static/css/2.c5b90173.chunk.css.map": "/shireesh-kumar.github.io/static/css/2.c5b90173.chunk.css.map",
     "static/css/main.66b67b49.chunk.css.map": "/shireesh-kumar.github.io/static/css/main.66b67b49.chunk.css.map",
     "static/js/2.a2fdc5b3.chunk.js.LICENSE.txt": "/shireesh-kumar.github.io/static/js/2.a2fdc5b3.chunk.js.LICENSE.txt",
+    "static/media/Bio_Pic.434d9d71.jpg": "/shireesh-kumar.github.io/static/media/Bio_Pic.434d9d71.jpg",
     "static/media/Home.css": "/shireesh-kumar.github.io/static/media/rock.0f60aa6c.jpg"
   },
   "entrypoints": [
@@ -21,6 +22,6 @@
     "static/css/2.c5b90173.chunk.css",
     "static/js/2.a2fdc5b3.chunk.js",
     "static/css/main.66b67b49.chunk.css",
-    "static/js/main.57b53c94.chunk.js"
+    "static/js/main.cd7a8020.chunk.js"
   ]
 }
